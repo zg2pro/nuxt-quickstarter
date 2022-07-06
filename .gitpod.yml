@@ -3,5 +3,4 @@ image:
 
 tasks:
   - init: npm install && npm run build
-    command: npm run start
 
